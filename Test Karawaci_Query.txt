@@ -1,0 +1,5 @@
+Jawaban Query Test Karawaci
+
+1. select no_tagihan from tagihan group by no_tagihan having count(*) > 1;
+
+2. select tabelA.Nama_FieldA from tabelA left join tabelB on tabelA.Nama_FieldA = tabelB.Nama_FieldB WHERE tabelB.Nama_FieldB is null;

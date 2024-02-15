@@ -1,0 +1,15 @@
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\bin\Debug\net6.0\Test_karawaci_sorting.exe
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\bin\Debug\net6.0\Test_karawaci_sorting.deps.json
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\bin\Debug\net6.0\Test_karawaci_sorting.runtimeconfig.json
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\bin\Debug\net6.0\Test_karawaci_sorting.dll
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\bin\Debug\net6.0\Test_karawaci_sorting.pdb
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.csproj.AssemblyReference.cache
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.AssemblyInfoInputs.cache
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.AssemblyInfo.cs
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.csproj.CoreCompileInputs.cache
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.dll
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\refint\Test_karawaci_sorting.dll
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.pdb
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\Test_karawaci_sorting.genruntimeconfig.cache
+C:\Users\msiuser\source\repos\Test_karawaci_sorting\Test_karawaci_sorting\obj\Debug\net6.0\ref\Test_karawaci_sorting.dll

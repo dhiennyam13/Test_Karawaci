@@ -1,0 +1,15 @@
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\bin\Debug\net6.0\Test_Karawaci_Penalty.exe
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\bin\Debug\net6.0\Test_Karawaci_Penalty.deps.json
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\bin\Debug\net6.0\Test_Karawaci_Penalty.runtimeconfig.json
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\bin\Debug\net6.0\Test_Karawaci_Penalty.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\bin\Debug\net6.0\Test_Karawaci_Penalty.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.csproj.AssemblyReference.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.AssemblyInfoInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.AssemblyInfo.cs
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.csproj.CoreCompileInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\refint\Test_Karawaci_Penalty.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\Test_Karawaci_Penalty.genruntimeconfig.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Penalty\Test_Karawaci_Penalty\obj\Debug\net6.0\ref\Test_Karawaci_Penalty.dll

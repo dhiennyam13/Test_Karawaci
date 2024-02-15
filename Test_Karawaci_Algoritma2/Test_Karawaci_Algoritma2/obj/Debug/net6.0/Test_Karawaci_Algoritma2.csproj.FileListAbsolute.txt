@@ -1,0 +1,15 @@
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\bin\Debug\net6.0\Test_Karawaci_Algoritma2.exe
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\bin\Debug\net6.0\Test_Karawaci_Algoritma2.deps.json
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\bin\Debug\net6.0\Test_Karawaci_Algoritma2.runtimeconfig.json
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\bin\Debug\net6.0\Test_Karawaci_Algoritma2.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\bin\Debug\net6.0\Test_Karawaci_Algoritma2.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.csproj.AssemblyReference.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.AssemblyInfoInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.AssemblyInfo.cs
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.csproj.CoreCompileInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\refint\Test_Karawaci_Algoritma2.dll
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\Test_Karawaci_Algoritma2.genruntimeconfig.cache
+C:\Users\msiuser\source\repos\Test_Karawaci_Algoritma2\Test_Karawaci_Algoritma2\obj\Debug\net6.0\ref\Test_Karawaci_Algoritma2.dll

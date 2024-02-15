@@ -1,0 +1,15 @@
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\bin\Debug\net6.0\Test_Karawaci.exe
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\bin\Debug\net6.0\Test_Karawaci.deps.json
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\bin\Debug\net6.0\Test_Karawaci.runtimeconfig.json
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\bin\Debug\net6.0\Test_Karawaci.dll
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\bin\Debug\net6.0\Test_Karawaci.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.csproj.AssemblyReference.cache
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.AssemblyInfoInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.AssemblyInfo.cs
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.csproj.CoreCompileInputs.cache
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.dll
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\refint\Test_Karawaci.dll
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.pdb
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\Test_Karawaci.genruntimeconfig.cache
+C:\Users\msiuser\source\repos\Test_Karawaci\Test_Karawaci\obj\Debug\net6.0\ref\Test_Karawaci.dll
